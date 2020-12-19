@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  margin: 20px 40px;
+}
+
+.title {
+  margin: 20px 0 0 0;
+}
+
+.form-input {
+  margin: 20px 0 10px 0;
+  width: 50vw;
+}
+
+.generate-button {
+  width: 15vw;
+  margin: 20px 0 10px 1vw;
+}
+
+.text {
+  text-align: left;
+  padding: 0 0 30px 0;
+}
+
+.content {
+  font-size: 15px;
+  margin: 10px 0;
+}
